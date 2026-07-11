@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
 ## Bucket Sort
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
 ## String
@@ -108,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
