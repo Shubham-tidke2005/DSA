@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Shubham-tidke2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
