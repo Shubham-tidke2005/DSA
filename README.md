@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubham-tidke2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Shubham-tidke2005/DSA/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0567-permutation-in-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubham-tidke2005/DSA/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
