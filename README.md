@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubham-tidke2005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shubham-tidke2005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubham-tidke2005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shubham-tidke2005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
+| [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
