@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shubham-tidke2005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Shubham-tidke2005/DSA/tree/master/1046-last-stone-weight) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Shubham-tidke2005/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
