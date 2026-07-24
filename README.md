@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shubham-tidke2005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubham-tidke2005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shubham-tidke2005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0767-reorganize-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-tidke2005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-tidke2005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
@@ -191,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
