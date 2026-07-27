@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
@@ -208,4 +209,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubham-tidke2005/DSA/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
