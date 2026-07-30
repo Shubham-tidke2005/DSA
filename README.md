@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Shubham-tidke2005/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shubham-tidke2005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-tidke2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-tidke2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
 ## Bucket Sort
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Shubham-tidke2005/DSA/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/Shubham-tidke2005/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-tidke2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
