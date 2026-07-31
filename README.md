@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-tidke2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-tidke2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/Shubham-tidke2005/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-tidke2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Matrix
 |  |
 | ------- |
