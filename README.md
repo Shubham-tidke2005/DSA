@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shubham-tidke2005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Shubham-tidke2005/DSA/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubham-tidke2005/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-tidke2005/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-tidke2005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shubham-tidke2005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-tidke2005/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Simulation
 |  |
 | ------- |
