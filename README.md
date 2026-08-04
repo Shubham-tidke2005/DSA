@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Shubham-tidke2005/DSA/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2090-k-radius-subarray-averages](https://github.com/Shubham-tidke2005/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shubham-tidke2005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2460-apply-operations-to-an-array) |
