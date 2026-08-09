@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Shubham-tidke2005/DSA/tree/master/0502-ipo) |
+| [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Shubham-tidke2005/DSA/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Shubham-tidke2005/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham-tidke2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Geometry
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
