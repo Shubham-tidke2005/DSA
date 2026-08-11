@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-tidke2005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubham-tidke2005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Shubham-tidke2005/DSA/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Shubham-tidke2005/DSA/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Shubham-tidke2005/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubham-tidke2005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-tidke2005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
+| [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
