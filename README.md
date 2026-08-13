@@ -206,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/Shubham-tidke2005/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
