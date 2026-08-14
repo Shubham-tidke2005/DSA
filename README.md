@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-tidke2005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubham-tidke2005/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shubham-tidke2005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Shubham-tidke2005/DSA/tree/master/1652-defuse-the-bomb) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubham-tidke2005/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Shubham-tidke2005/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubham-tidke2005/DSA/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubham-tidke2005/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
