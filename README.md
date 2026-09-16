@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/Shubham-tidke2005/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Shubham-tidke2005/DSA/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shubham-tidke2005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham-tidke2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shubham-tidke2005/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Shubham-tidke2005/DSA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
