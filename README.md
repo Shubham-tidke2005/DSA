@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shubham-tidke2005/DSA/tree/master/0069-sqrtx) |
 | [0275-h-index-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/Shubham-tidke2005/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shubham-tidke2005/DSA/tree/master/0441-arranging-coins) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shubham-tidke2005/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham-tidke2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shubham-tidke2005/DSA/tree/master/0367-valid-perfect-square) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shubham-tidke2005/DSA/tree/master/0901-online-stock-span) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shubham-tidke2005/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
