@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shubham-tidke2005/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-tidke2005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shubham-tidke2005/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shubham-tidke2005/DSA/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-tidke2005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shubham-tidke2005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shubham-tidke2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
