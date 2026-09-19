@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-tidke2005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
@@ -300,4 +302,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shubham-tidke2005/DSA/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
