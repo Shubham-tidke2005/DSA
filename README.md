@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Shubham-tidke2005/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shubham-tidke2005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Shubham-tidke2005/DSA/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubham-tidke2005/DSA/tree/master/1052-grumpy-bookstore-owner) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Shubham-tidke2005/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Shubham-tidke2005/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
