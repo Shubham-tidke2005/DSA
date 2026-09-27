@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Shubham-tidke2005/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shubham-tidke2005/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Shubham-tidke2005/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shubham-tidke2005/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shubham-tidke2005/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubham-tidke2005/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Shubham-tidke2005/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Shubham-tidke2005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0210-course-schedule-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Shubham-tidke2005/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
