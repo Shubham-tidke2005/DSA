@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shubham-tidke2005/DSA/tree/master/0207-course-schedule) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shubham-tidke2005/DSA/tree/master/0207-course-schedule) |
