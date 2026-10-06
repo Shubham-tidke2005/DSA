@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubham-tidke2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0113-path-sum-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0226-invert-binary-tree) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Shubham-tidke2005/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0226-invert-binary-tree) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-tidke2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shubham-tidke2005/DSA/tree/master/0207-course-schedule) |
