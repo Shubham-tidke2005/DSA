@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shubham-tidke2005/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Shubham-tidke2005/DSA/tree/master/0733-flood-fill) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shubham-tidke2005/DSA/tree/master/0951-flip-equivalent-binary-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubham-tidke2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -379,11 +380,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shubham-tidke2005/DSA/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shubham-tidke2005/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shubham-tidke2005/DSA/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubham-tidke2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shubham-tidke2005/DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubham-tidke2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shubham-tidke2005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Shubham-tidke2005/DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubham-tidke2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shubham-tidke2005/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
