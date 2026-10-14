@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Shubham-tidke2005/DSA/tree/master/1512-number-of-good-pairs) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shubham-tidke2005/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/Shubham-tidke2005/DSA/tree/master/3516-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
