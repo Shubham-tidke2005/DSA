@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shubham-tidke2005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shubham-tidke2005/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham-tidke2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shubham-tidke2005/DSA/tree/master/0367-valid-perfect-square) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-tidke2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-tidke2005/DSA/tree/master/0152-maximum-product-subarray) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
