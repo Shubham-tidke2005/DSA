@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shubham-tidke2005/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shubham-tidke2005/DSA/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-tidke2005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubham-tidke2005/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-tidke2005/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Simulation
