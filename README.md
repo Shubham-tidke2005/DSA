@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shubham-tidke2005/DSA/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Shubham-tidke2005/DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-tidke2005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-tidke2005/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shubham-tidke2005/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-tidke2005/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Simulation
 |  |
