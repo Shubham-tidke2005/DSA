@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shubham-tidke2005/DSA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-tidke2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Shubham-tidke2005/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Shubham-tidke2005/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shubham-tidke2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Shubham-tidke2005/DSA/tree/master/1512-number-of-good-pairs) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shubham-tidke2005/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Shubham-tidke2005/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Shubham-tidke2005/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-tidke2005/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Simulation
 |  |
@@ -460,4 +462,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shubham-tidke2005/DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Shubham-tidke2005/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
