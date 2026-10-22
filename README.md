@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubham-tidke2005/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Shubham-tidke2005/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-tidke2005/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Shubham-tidke2005/DSA/tree/master/3110-score-of-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shubham-tidke2005/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Shubham-tidke2005/DSA/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-tidke2005/DSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/Shubham-tidke2005/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubham-tidke2005/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shubham-tidke2005/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Shubham-tidke2005/DSA/tree/master/2540-minimum-common-value) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubham-tidke2005/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Shubham-tidke2005/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Shubham-tidke2005/DSA/tree/master/1598-crawler-log-folder) |
+| [2000-reverse-prefix-of-word](https://github.com/Shubham-tidke2005/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
